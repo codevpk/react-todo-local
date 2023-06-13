@@ -1,0 +1,14 @@
+.auth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 48px;
+
+    .card {
+        max-width: 450px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        border: 0;
+        margin: 0 auto;
+    }
+}
